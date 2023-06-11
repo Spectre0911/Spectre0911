@@ -12,5 +12,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshuacastelino&show_icons=true&locale=en&layout=compact" alt="joshuacastelino" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuacastelino&show_icons=true&locale=en" alt="joshuacastelino" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshuacastelino&show_icons=true&locale=en" alt="Spectre0911" /></p>
 
