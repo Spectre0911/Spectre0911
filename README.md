@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Joshua Castelino</h1>
+<h1 align="center">Hi , I'm Joshua Castelino</h1>
 <h3 align="center">A Computer Science Student At The University Of Warwick</h3>
 
 <h3 align="left">Connect with me:</h3>
